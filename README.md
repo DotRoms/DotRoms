@@ -8,23 +8,16 @@
   ### Personnellement :
   Dans la vie de tout les jour je suis très actif. ✨
 
-```javascript
-      let mesActivités =  {
+Mes activités :
+ - Sportif :
+   - Gymnaste : Je suis gymnaste depuis plus de 7 ans.
+   - Pongiste : Je suis pongiste depuis 2 ans.
 
-      "Sportif" : {
-        "Gymnaste" : "Je suis gymnaste depuis plus de 7 ans.",
-        "Pongiste" : "Je suis pongiste depuis 2 ans."
-      },
+- Artistique :
+  - Peintre : Art abstrait / Géometrique.
+  - Musique : A mes heures perdues.
 
-      "Artistique" : {
-        "Peintre" : "Art abstrait / Géometrique",
-        "Musique" : "A mes heures perdues"
-      }
-
-    };
-```
-
-  Quand je décide de me ressourcer, mes principales occupations sont la lecture ou, étant proche de la nature, les randonnées. 🌿 🌳
+Quand je décide de me ressourcer, mes principales occupations sont la lecture ou, étant proche de la nature, les randonnées. 🌿 🌳
 
 ## Plus serieusement, mon parcours profesionnel:
 
