@@ -14,8 +14,8 @@ Orientée full stack, cette formation propose plusieurs spécialisations, dont c
 👉 J'ai devellopé mes qualités de developpeur avec des langages et des outils tels que :
 
   - Outils Wireframe
-  - HTML, CSS, JS, Vue JS
-  - Node JS, Sequelize
+  - HTML, CSS, JS, React, Vue.js
+  - Node JS, Sequelize, Express
   - SQL, PostgresSQl, Sqitch
   - Git, Github
   - DAO (Illustrator)
