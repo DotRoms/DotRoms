@@ -1,4 +1,4 @@
-![Bannière](./Developpement_web.png)
+![Bannière](./Banniere.png)
 
 
 # Bienvenue sur mon profile Github 🙋‍♂️
